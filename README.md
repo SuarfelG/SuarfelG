@@ -1,4 +1,4 @@
-Hi! I'm Surafel, a 3rd year computer science student at Hawassa University.
+Hi! I'm Surafel, a computer science student at Hawassa University.
 I'm currently passionate about backend web development and Machine Learning using Python.
 Technologies: -Python
               -Flask
