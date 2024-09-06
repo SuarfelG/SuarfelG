@@ -5,4 +5,4 @@ Technologies: -Python
               -Django
               -MySql
 I'm open to contributions! If you find any improvements or have suggestions, feel free to create a pull request.
-Contact Me - surafelgmedhin7@gmail.com
+Contact Me - surafelgebrmedhin@gmail.com
